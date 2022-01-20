@@ -1,5 +1,4 @@
 public class EvenFib{
-
         public static int calculate(){
         int a=1,b=2,c=0,sum=0;
 
